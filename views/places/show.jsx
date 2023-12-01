@@ -15,7 +15,7 @@ function show (data) {
               <p>idk</p>
             </section>
             <section>
-              <h2>comments</h2>
+              <h2>commentss</h2>
               <p>no comments yet</p>
             </section>
             <a href={`/places/${data.id}/edit`} className="btn btn-warning"> Edit </a>     
@@ -23,7 +23,7 @@ function show (data) {
             <button type="submit" className="btn btn-danger"> Delete </button>
             </form> 
     
-
+  
           </main>
         </Def>
     )
